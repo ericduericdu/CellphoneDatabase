@@ -1,0 +1,45 @@
+FCC ID   Make        Model            Memory   Apps  Songs 
+FE70UW   BlackBerry  Curve 9315       0.5      15    88    
+T56NG9   Motorola    RAZR HD          16       35    38    
+MN910C   Samsung     Galaxy Note 4    64       95    883   
+GHI257   Samsung     Galaxy S4 Mini   16       34    173   
+CHI605   Samsung     Galaxy Note II   16       67    241   
+052021   Sony        Ericsson W910    0.03     7     13    
+CHR220   Samsung     Jitterbug 5      0.06     3     2     
+WH1210   Amazon      Fire             32       86    396   
+E2642A   Apple       iPhone 5s        64       56    338   
+P6B100   HTC         One M8           16       56    964   
+E2827A   Apple       iPhone 6 Plus    128      149   1712  
+BS20CW   BlackBerry  Pearl 8130       0.06     15    19    
+CHR570   Samsung     R570             0.1      34    102   
+PP4OZ2   Pantech     Ocean 2          0.5      12    43    
+FK5402   Kyocera     Rio E3100        0.125    5     0     
+P56LF1   Motorola    Citrus           0.125    25    140   
+DHW205   Yota        YotaPhone 2      32       57    409   
+E2430A   Apple       iPhone 4S        32       43    105   
+ARM821   Nokia       Lumia 920        32       103   406   
+T56QD1   Google      Nexus 6          64       132   1058  
+EN9500   ZTE         Flash            8        34    273   
+PM0170   Sony        Xperia J         4        45    275   
+2A0001   OnePlus     One              32       84    451   
+5E6710   Kyocera     Torque XT        4        30    73    
+PFH100   HTC         Desire Eye       16       84    345   
+NFC395   LG          450              0.25     12    8     
+L110LW   BlackBerry  Q10              16       78    342   
+SU8652   Huawei      Fusion           0.5      23    341   
+RAD136   Alcatel     OneTouch Sparq   0.03     10    8     
+CHU680   Samsung     Convoy 3         0.5      11    45    
+CP6650   Sanyo       Katana II        0.06     10    7     
+CP6010   Pantech     Pursuit II       0.25     16    85    
+RM1073   Microsoft   Lumia 640        8        57    201   
+GHT159   Samsung     T159             0.25     10    23    
+PJA200   HTC         One M9           32       103   549   
+NFD855   LG          G3               16       70    35    
+ARM208   Nokia       E65              0.06     3     0     
+MG925F   Samsung     Galaxy S6 Edge   128      175   1963  
+RAD506   Alcatel     OneTouch Fling   0.25     10    23    
+E2817A   Apple       iPhone 6         64       55    735   
+PM0801   Sony        Xperia Z3        32       120   867   
+=================================================
+=== N O  I T E M  I N  T H E  O V E R F L O W ===
+=================================================
